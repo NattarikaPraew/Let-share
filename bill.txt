@@ -1,0 +1,15 @@
+Menu & Price
+--------------------------------------
+Pizza		199	199
+Payer list
+Praew 
+--------------------------------------
+Fired Chicken		199	100
+Payer list
+Praew 
+Ming 
+
+Payer
+Praew		299
+Ming		100
+

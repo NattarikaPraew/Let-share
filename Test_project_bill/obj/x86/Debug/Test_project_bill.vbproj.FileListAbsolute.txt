@@ -1,0 +1,18 @@
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\bin\Debug\Test_project_bill.exe
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\bin\Debug\Test_project_bill.pdb
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\bin\Debug\Test_project_bill.xml
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\obj\x86\Debug\Test_project_bill.Form1.resources
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\obj\x86\Debug\Test_project_bill.Resources.resources
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\obj\x86\Debug\Test_project_bill.vbproj.GenerateResource.Cache
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\obj\x86\Debug\Test_project_bill.exe
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\obj\x86\Debug\Test_project_bill.xml
+C:\Users\Preaw\AppData\Local\Temporary Projects\Test_project_bill\obj\x86\Debug\Test_project_bill.pdb
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Debug\Test_project_bill.exe
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Debug\Test_project_bill.xml
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Debug\Test_project_bill.pdb
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\bin\Debug\Test_project_bill.exe
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\bin\Debug\Test_project_bill.pdb
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\bin\Debug\Test_project_bill.xml
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Debug\Test_project_bill.Form1.resources
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Debug\Test_project_bill.Resources.resources
+C:\Users\Preaw\documents\visual studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Debug\Test_project_bill.vbproj.GenerateResource.Cache

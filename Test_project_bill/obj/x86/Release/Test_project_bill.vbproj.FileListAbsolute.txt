@@ -1,0 +1,9 @@
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\bin\Release\Test_project_bill.exe
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\bin\Release\Test_project_bill.pdb
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\bin\Release\Test_project_bill.xml
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Release\Test_project_bill.Form1.resources
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Release\Test_project_bill.Resources.resources
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Release\Test_project_bill.vbproj.GenerateResource.Cache
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Release\Test_project_bill.exe
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Release\Test_project_bill.xml
+C:\Users\Preaw\Documents\Visual Studio 2010\Projects\Test_project_bill\Test_project_bill\obj\x86\Release\Test_project_bill.pdb
